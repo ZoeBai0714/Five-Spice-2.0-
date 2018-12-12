@@ -8,7 +8,7 @@ So I decided to continue the journey ---- In the following 3 months, I learned j
 and basic Node js. Credits go to ninja @iamshaunjp ! His tutorials are just FANTASTIC.
 
 
-To brush up the new skills, I made a lot of(or almost complete) changes based on 1.0.
+To brush up the new skills, I made a lot of(or almost complete) changes based on 1.0.(NOTE: the texts are not original, I looked them up everywhere. Here I just want to build a website to carry some info)
 
 ## New Features:
  * Host local server
